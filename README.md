@@ -1,2 +1,2 @@
 # ArtificialIntelligence
-terminator ww3 i cant breath memes
+ww3 memes you can steal it but it gonna kill you
