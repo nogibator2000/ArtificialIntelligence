@@ -17,7 +17,7 @@ namespace cykabot
         public string to;
         public string tw;
 
-        List<string> LC = new List<string>();
+        List<string> LC = new List<string>() {"for", "return", "s+=", "s", "terminator", "1", "2", "3", "4", "nuke", "g".Replace('g', '"'), "'", ";", "//", "/*", "*/", "nig", "ger", "if", "while", ">", "<", "!=", "==", ".", "{", "}","public", "void", "=", "+", "-", ">", "<", "black", "hole", "(", ")", "+", "-","*","/", "try", "catch", "var", "int", "string", "[]", "float", "LMAO" };
         public string c2 = @"s += w[r.Next(0, w.Count)]; s += "" "";";
         public string c1 = @"return ""hello"";";
         public const string t2 = @"using System.Collections.Generic; using System; class Program { public static string Main(List<string> w) { var r = new Random(); var c = r.Next(0, 100); var s = @""""; for (var i = 0; i < w/10; i++) { core } return s; } }";
